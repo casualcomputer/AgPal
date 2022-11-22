@@ -112,7 +112,9 @@ fast_Text_model.save("model/agpal_word_embed_v0")
 '''
 # Load saved gensim fastText model
 fast_Text_model = Word2Vec.load("model/agpal_word_embed_v0")
-
+# The folder "model" contains 2 files:
+# download "model/agpal_word_embed_v0" at https://storage.googleapis.com/fasttext_models/agpal_word_embed_v0
+# download "model/agpal_word_embed_v0.wv.vectors_ngrams.npy" at https://storage.googleapis.com/fasttext_models/agpal_word_embed_v0.wv.vectors_ngrams.npy
 
 """
 Measure similarity between sentences
