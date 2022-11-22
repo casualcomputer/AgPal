@@ -20,6 +20,8 @@ Interesting links:
     * BERT search engine: https://towardsdatascience.com/building-a-search-engine-with-bert-and-tensorflow-c6fdc0186c8a
     
     * How search engine works (transformers): https://neptune.ai/blog/building-search-engine-with-pre-trained-transformers-guide
+    
+    * Dual embeddings space model: https://www.kaggle.com/code/girianantharaman/dual-embeddings-space-model-demo
 
 2. Evaluate search engine
     * https://arxiv.org/ftp/arxiv/papers/1302/1302.2318.pdf
